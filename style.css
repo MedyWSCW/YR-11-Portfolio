@@ -79,5 +79,16 @@ h4
             color: #ddd;
          font-size: 50px;
           }         
-
+img{
+  float: right;
+  flex: 0 0 30%;
+}
     
+.split-box {
+  display: flex;
+  align-items: center;
+}
+
+.split-box-item {
+  flex: 0 0 45%;
+}
