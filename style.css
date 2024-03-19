@@ -51,6 +51,12 @@ h3
  text-align: left;
  font-size: 40px;
     }
+.h3
+{
+  color: #ddd;   
+  text-align: right;
+  font-size: 40px;
+     }
 h4
 {
  color: #ddd;   
@@ -85,3 +91,9 @@ img{
   width: 800px;
   
 }
+
+li {
+font-size: 30px;
+color: #f2f2f2;
+}
+
