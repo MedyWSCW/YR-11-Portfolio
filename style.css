@@ -28,6 +28,7 @@
   }
   body {
     background-color: rgb(55, 55, 55);
+    margin: 30px;
   }
 
 h1{
@@ -80,15 +81,7 @@ h4
          font-size: 50px;
           }         
 img{
-  float: right;
-  flex: 0 0 30%;
-}
-    
-.split-box {
-  display: flex;
-  align-items: center;
-}
-
-.split-box-item {
-  flex: 0 0 45%;
+  align-self: right;
+  width: 800px;
+  
 }
