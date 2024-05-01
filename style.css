@@ -112,3 +112,15 @@ color: #f2f2f2;
   width: 200px;
 
 }
+
+.Torso {
+  align-self: right;
+  width: 250px;
+
+}
+
+.Big {
+  align-self: right;
+  width: 400px;
+
+}
