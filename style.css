@@ -86,10 +86,9 @@ h4
             color: #ddd;
          font-size: 30px;
           }         
-img{
+img{ width: 300px;
+  height: auto;
   align-self: right;
-  width: 600px;
-  
 }
 
 li {
