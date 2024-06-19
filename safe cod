@@ -239,3 +239,17 @@ I will keep testing different parts of the body to see if its functional for exa
 
 </body>
 </html>
+
+
+
+CSSSSSSSSSSSS
+.random {
+  float: right;
+  margin-left: 1000px 100px 100px 100px;
+  width: 620px;
+  height: 160;
+  
+  }
+  .random {
+    border: 5px blanchedalmond;
+  }
