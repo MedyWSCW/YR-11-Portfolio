@@ -134,12 +134,12 @@ color: #f2f2f2;
 }
 .devi{
   height: 50px ;
-  width: 300px;
+  width: 500px;
 }
 
 .output{
-  height: 33px;
-  width:  650px;
+  height: 50px;
+  width:  850px;
 }
 .devi{
   height: 50px ;
@@ -154,3 +154,13 @@ color: #f2f2f2;
   height: 200px ;
   width: 400px;
 }
+
+.outpute{
+  height: 150px;
+  width:  850px;
+}
+.outputei{
+  height: 200px;
+  width:  800px;
+}
+.ooo{width: 600px;}
